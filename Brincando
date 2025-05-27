@@ -1,0 +1,9 @@
+programa {
+  funcao inicio() {
+    inteiro idade = 17
+    inteiro pessoa = idade-3
+    inteiro velho = idade-pessoa
+    escreva(velho+pessoa/idade)
+    
+  }
+}
